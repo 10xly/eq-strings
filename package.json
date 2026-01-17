@@ -1,0 +1,19 @@
+{
+  "name": "eq-strings",
+  "version": "2.0.2",
+  "description": "Check if all strings are equal. Case sensitive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eiousoireiowruiew",
+    "ewiruoewiur",
+    "wuryuiru",
+    "vioeurqov38v4",
+    "34vjsrufit",
+    "jsfruit"
+  ],
+  "author": "eiorsuoineruionvuq43",
+  "license": "MIT"
+}
